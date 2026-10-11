@@ -1,0 +1,28 @@
+----------------------------------------
+Student Name: USWAH
+Roll Number: 014219
+Courses:
+  1. OOP | Grade: A | Credit hours: 3.00
+  2. DLS | Grade: C+ | Credit hours: 2.00
+  3. DLD LAB | Grade: B+ | Credit hours: 1.00
+  4. PHY | Grade: C | Credit hours: 2.00
+  5. DSA | Grade: D | Credit hours: 4.00
+  6. ISLAMIC STUDIES | Grade: F | Credit hours: 2.00
+Total credit hours: 14.00
+Total grade points: 27.75
+Semester GPA: 1.98
+Overall CGPA: 12.14
+----------------------------------------
+
+----------------------------------------
+Student Name: ASMA
+Roll Number: 987
+Courses:
+  1. SE | Grade: F | Credit hours: 3.00
+  2. DLD | Grade: D | Credit hours: 1.00
+  3. CYBERSECURITY | Grade: A | Credit hours: 4.00
+Total credit hours: 8.00
+Total grade points: 16.00
+Semester GPA: 2.00
+----------------------------------------
+
